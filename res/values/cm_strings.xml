@@ -415,4 +415,9 @@
     <!-- Heads-up -->
     <string name="heads_up_notifications_enabled_title">Heads-up</string>
     <string name="heads_up_notifications_enabled_summary">Display priority notifications in a small floating window</string>
+
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
+    <string name="screenshot_type_partial">Drag selection on the area you want to take as a screenshot</string>
 </resources>
